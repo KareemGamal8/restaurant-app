@@ -11,16 +11,12 @@ export const toggleGroupAtom: Atom = atom({
   key: "ToggleHeaderIcons",
   default: {
     headerSearch: false,
-    langSwitch: false,
     userIcon: false,
     cartIcon: false,
   },
 });
 
-export const toggleGroupActiveBarAtom: Atom = atom({
-  key: "ToggleActiveBar",
-  default: {
-    headerSearch: false,
-    langSwitch: false,
-  },
+export const searchInputAtom: Atom = atom({
+  key: "searchInput",
+  default: "",
 });
