@@ -13,9 +13,41 @@ groupedTranslations({
     en: "Menu",
     ar: "القائمة",
   },
+  changePassword: {
+    en: "Change Password",
+    ar: "تغيير كلمة السر",
+  },
+  currentPassword: {
+    en: "Current Password",
+    ar: "كلمة السر الحالية",
+  },
+  newPassword: {
+    en: "New Password",
+    ar: "كلمة السر الجديدة",
+  },
   about: {
     en: "About Us",
     ar: "من نحن",
+  },
+  dashboard: {
+    en: "Dashboard",
+    ar: "لوحة التحكم",
+  },
+  logout: {
+    en: "Logout",
+    ar: "تسجيل الخروج",
+  },
+  email: {
+    en: "Email",
+    ar: "البريد الإلكتروني",
+  },
+  updateProfile: {
+    en: "Update Profile",
+    ar: "تعديل الملف الشخصي",
+  },
+  updateInformation: {
+    en: "Update Information",
+    ar: "تحديث البيانات",
   },
   blog: {
     en: "Blog",
@@ -447,9 +479,53 @@ groupedTranslations({
     en: "Terms and Conditions",
     ar: "الأحكام والشروط",
   },
+  myAddresses: {
+    en: "My Addresses",
+    ar: "العناوين",
+  },
+  billingAddress: {
+    en: "Billing Address",
+    ar: "عنوان وصول الفواتير",
+  },
+  shippingAddress: {
+    en: "Shipping Address",
+    ar: "عنوان الشحن",
+  },
+  followingAddresses: {
+    en: "The following addresses will be used on the checkout page by default.",
+    ar: "سيتم استخدام العناوين التالية في صفحة الدفع بشكل افتراضي.",
+  },
+  not: {
+    en: "not",
+    ar: "لست",
+  },
+  myDashboard: {
+    en: "My Dashboard",
+    ar: "لوحة التحكم",
+  },
+  and: {
+    en: "and",
+    ar: "و",
+  },
+  edit: {
+    en: "Edit",
+    ar: "تعديل",
+  },
   category: {
     en: "Category",
     ar: "فئة",
+  },
+  editYourPassword: {
+    en: "edit your password",
+    ar: "تعديل كلمة المرور",
+  },
+  accountDashboard: {
+    en: "From your account dashboard you can view your recent orders, manage your shipping and billing addresses and",
+    ar: "من لوحة التحكم في حسابك، يمكنك عرض طلباتك الأخيرة وإدارة عناوين الشحن والفواتير الخاصة بك و",
+  },
+  accountDetails: {
+    en: "account details",
+    ar: "تفاصيل الحساب",
   },
   share: {
     en: "Share",

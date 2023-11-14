@@ -48,7 +48,7 @@ export function guardedRoutes(routes: Route[]) {
  */
 export function accountRoutes(routes: Route[]) {
   return router.group({
-    middleware: [Guardian],
+    // middleware: [Guardian],
     layout: AccountLayout,
     routes,
   });
